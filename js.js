@@ -5,6 +5,7 @@ const urlForRequest = `${url}?q=${searchWords}&from=2018-11-19&sortBy=popularity
 
 function createContent(data){
   console.dir(data);
+  
 }
 
 function myRequest(url) {
